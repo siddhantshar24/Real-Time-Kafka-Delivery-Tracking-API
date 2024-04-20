@@ -23,4 +23,4 @@ To start the project in your local:
 
 -Make sure your Kafka is setup and running before starting the application.
 
-Thanks.
+Thank you so much.
